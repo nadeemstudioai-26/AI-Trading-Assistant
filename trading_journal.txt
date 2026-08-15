@@ -1,0 +1,224 @@
+
+==========================
+Time : 2026-07-23 08:06:46.623208
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:13:37.574917
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:19:17.282475
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:21:14.803122
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:24:14.759115
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:26:29.636136
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:31:02.802979
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:33:35.282226
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:35:56.727140
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:40:30.963861
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:42:52.016033
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:45:54.227858
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 08:51:21.121526
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 09:00:04.008914
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 09:03:54.256029
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 09:06:58.669887
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 74%
+Risk Level : MEDIUM
+Action : WAIT / CAUTION
+==========================
+
+==========================
+Time : 2026-07-23 09:14:45.050690
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 77%
+Risk Level : LOW
+Action : TAKE TRADE
+==========================
+
+==========================
+Time : 2026-07-23 09:17:46.202792
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 77%
+Risk Level : LOW
+Action : TAKE TRADE
+==========================
+
+==========================
+Time : 2026-07-23 09:20:46.082751
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 77%
+Risk Level : LOW
+Action : TAKE TRADE
+==========================
+
+==========================
+Time : 2026-07-23 09:46:28.233183
+Signal : SELL
+Trend : DOWN
+Trend Strength : 60%
+Pattern : Bearish Continuation
+Confidence : 77%
+Risk Level : LOW
+Action : TAKE TRADE
+Breakout Status : RESISTANCE REJECTION
+Support : 267
+Resistance : 357
+
+AI Reasoning:
