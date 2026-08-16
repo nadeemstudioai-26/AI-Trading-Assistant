@@ -19,6 +19,12 @@ An AI-powered trading assistant designed to help users analyze financial markets
 * Financial Market Analysis
 * Trading Strategy Simulation
 
+## 📸 Project Screenshot
+
+![AI Trading Assistant - Market Chart Analysis](./chart_roi.png)
+
+*Example of market chart analysis with candlestick data and moving-average indicators.*
+
 ## 📌 Project Overview
 
 AI Trading Assistant is a portfolio project focused on applying artificial intelligence and machine learning concepts to financial market analysis.
@@ -38,3 +44,6 @@ This project is created for educational and portfolio purposes. It does not prov
 **Nadeem Uddin**
 
 GitHub: [nadeemstudioai-26](https://github.com/nadeemstudioai-26)
+
+
+
